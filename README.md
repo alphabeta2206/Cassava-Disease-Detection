@@ -1,1 +1,1 @@
-CNN based Leaf Disease detection Model
+CNN based Leaf Disease Detection Model
